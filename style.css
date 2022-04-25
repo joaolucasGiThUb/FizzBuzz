@@ -1,0 +1,17 @@
+body {
+  display: block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Impact, Haettenschweiler;
+  font-size  : 17px;
+}
+
+h1 {
+  display        : flex;
+  justify-content: center;
+}
